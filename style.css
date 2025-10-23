@@ -1,0 +1,29 @@
+span{
+
+    font-size:23px;
+
+}
+
+.test_image_and_result{
+
+    background-color: grey;
+    height: 300px;
+
+}
+
+.name{
+
+    background-color: white;
+    border-radius: 5px;
+    line-height: 3;
+    width:250px;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.mini-result{
+
+    margin-top: 100px;
+
+}
